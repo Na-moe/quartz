@@ -1,5 +1,4 @@
 ---
 title: Namoe's Homepage
 ---
-
-test
+[[cv|个人简历]]
